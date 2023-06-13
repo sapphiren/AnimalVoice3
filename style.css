@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lobster Two', cursive;
+    background: antiquewhite;
+    text-align:center;
+}
+
+.header_div {
+    background: white;
+    color: red;
+}
+
+.header_div h5{
+    font-family:'Times New Roman', Times, serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12 px;
+    font-weight:bold;
+}
+.main_div button {
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color:aquamarine;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background-color: bisque;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149)
+}
